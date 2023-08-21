@@ -1,0 +1,3 @@
+/home/astropony/CPP/MessageClient/cmake-build-debug/CMakeFiles/MessageClient.dir
+/home/astropony/CPP/MessageClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/astropony/CPP/MessageClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
